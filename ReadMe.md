@@ -11,5 +11,5 @@ Pensado para ajudar meus colegas levando em conta que a maioria ainda não progr
 
 5. Se você ainda não instalou o Pandas, o NumPy e o Matplotlip rode os comandos abaixo no seu terminal antes de rodar o código:
 - pip install numpy
-- pip intall pandas
+- pip install pandas
 - pip install matplotlib
